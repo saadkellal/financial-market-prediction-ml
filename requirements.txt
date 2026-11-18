@@ -1,0 +1,17 @@
+dash
+dash-bootstrap-components
+joblib
+jupyter-dash
+jupyterlab
+lightgbm
+matplotlib
+numpy
+openpyxl
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+statsmodels
+xgboost
+yfinance

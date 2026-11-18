@@ -1,0 +1,25 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Generated models, charts and reports
+*.pkl
+*.joblib
+outputs/
+reports/generated/
+
+# Downloaded market data is fetched at runtime
+data/*.csv
+data/*.xls
+data/*.xlsx
+
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
